@@ -15,7 +15,7 @@
 
 # Team_Members
 
-<table>
+<table align="center">
     <tbody>
         <tr align="center">
             <td align="center">
