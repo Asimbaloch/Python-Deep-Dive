@@ -31,9 +31,7 @@
                     <br />
                     <sub><b>Asim Khan</b></sub>
                 </a> 
-            </td>
-            </tr>
-            <tr>
+            </td>    
             <td align="center">
                 <a href="https://github.com/muhammadibrahim313">
                     <img src="https://avatars.githubusercontent.com/u/147333130?v=4" width="100px;" alt="Contributor 2"/>
