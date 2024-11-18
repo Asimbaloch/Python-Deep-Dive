@@ -17,7 +17,7 @@
 
 <table>
     <tbody>
-        <tr>
+        <tr align="center">
             <td align="center">
                 <a href="https://github.com/Ahmad-Fakhar">
                     <img src="https://avatars.githubusercontent.com/u/155258276?v=4" width="100px;" alt="Your Name"/>
